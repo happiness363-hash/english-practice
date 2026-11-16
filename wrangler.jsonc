@@ -1,0 +1,32 @@
+{
+  "name": "english-practice",
+  "compatibility_date": "2026-11-16",
+  "main": "worker.mjs",
+  "rules": [
+    {
+      "type": "Text",
+      "globs": [
+        "**/*.html"
+      ],
+      "fallthrough": true
+    }
+  ],
+  "observability": {
+    "enabled": true,
+    "traces": {
+      "enabled": true
+    }
+  },
+  "workers_dev": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "english-practice-vocabulary",
+      "database_id": "01287470-e34c-44e9-890a-2d856bd598c4"
+    }
+  ],
+  "vars": {
+    "ACCESS_TEAM": "happiness363-english.cloudflareaccess.com",
+    "ACCESS_AUD": "55231f88277df0563807016741e061ce6b0666963f6dd0cf598d9643a9432055"
+  }
+}

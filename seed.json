@@ -1,0 +1,1043 @@
+[
+  {
+    "id": "base-0",
+    "en": "AI",
+    "zh": "人工智慧",
+    "hint": "A－I",
+    "ipa": "/ˌeɪ ˈaɪ/",
+    "speech": "A I",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課",
+      "第 02 課",
+      "第 03 課",
+      "第 04 課",
+      "第 05 課",
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ]
+  },
+  {
+    "id": "base-1",
+    "en": "ChatGPT",
+    "zh": "AI 對話工具",
+    "hint": "chat－G－P－T",
+    "ipa": "/tʃæt ˌdʒiː piː ˈtiː/",
+    "speech": "Chat G P T",
+    "cat": "工具名稱",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "base-2",
+    "en": "Work",
+    "zh": "工作",
+    "hint": "WURK",
+    "ipa": "/wɝːk/",
+    "speech": "Work",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "base-3",
+    "en": "ChatGPT Work",
+    "zh": "工作模式",
+    "hint": "chat－G－P－T WURK",
+    "ipa": "/tʃæt ˌdʒiː piː ˈtiː wɝːk/",
+    "speech": "Chat G P T Work",
+    "cat": "工具名稱",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "base-4",
+    "en": "site",
+    "zh": "網站（單數）",
+    "hint": "SITE",
+    "ipa": "/saɪt/",
+    "speech": "site",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "base-5",
+    "en": "Sites",
+    "zh": "網站（複數）",
+    "hint": "SITES",
+    "ipa": "/saɪts/",
+    "speech": "Sites",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課",
+      "第 03 課",
+      "第 04 課"
+    ]
+  },
+  {
+    "id": "base-6",
+    "en": "ChatGPT Sites",
+    "zh": "網站製作功能",
+    "hint": "chat－G－P－T SITES",
+    "ipa": "/tʃæt ˌdʒiː piː ˈtiː saɪts/",
+    "speech": "Chat G P T Sites",
+    "cat": "工具名稱",
+    "courses": [
+      "第 01 課",
+      "第 03 課"
+    ]
+  },
+  {
+    "id": "base-7",
+    "en": "Google",
+    "zh": "公司名稱",
+    "hint": "GOO-guhl",
+    "ipa": "/ˈɡuːɡəl/",
+    "speech": "Google",
+    "cat": "工具名稱",
+    "courses": [
+      "第 01 課",
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ]
+  },
+  {
+    "id": "base-8",
+    "en": "Google Sites",
+    "zh": "Google 協作平台",
+    "hint": "GOO-guhl SITES",
+    "ipa": "/ˈɡuːɡəl saɪts/",
+    "speech": "Google Sites",
+    "cat": "工具名稱",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "base-9",
+    "en": "Codex",
+    "zh": "AI 程式開發工具",
+    "hint": "KOH-deks",
+    "ipa": "/ˈkoʊdɛks/",
+    "speech": "Codex",
+    "cat": "工具名稱",
+    "courses": [
+      "第 01 課",
+      "第 03 課",
+      "第 04 課",
+      "第 05 課"
+    ]
+  },
+  {
+    "id": "base-10",
+    "en": "GitHub",
+    "zh": "程式碼與版本管理平台",
+    "hint": "GIT-hub",
+    "ipa": "/ˈɡɪtˌhʌb/",
+    "speech": "Git Hub",
+    "cat": "工具名稱",
+    "courses": [
+      "第 01 課",
+      "第 03 課"
+    ]
+  },
+  {
+    "id": "base-11",
+    "en": "GitHub Pages",
+    "zh": "靜態網站託管服務",
+    "hint": "GIT-hub PAY-jiz",
+    "ipa": "/ˈɡɪtˌhʌb ˈpeɪdʒɪz/",
+    "speech": "Git Hub Pages",
+    "cat": "工具名稱",
+    "courses": [
+      "第 01 課",
+      "第 03 課"
+    ]
+  },
+  {
+    "id": "base-12",
+    "en": "Vercel",
+    "zh": "網站部署與託管平台",
+    "hint": "VER-suhl",
+    "ipa": "/ˈvɝːsəl/",
+    "speech": "Vercel",
+    "cat": "工具名稱",
+    "courses": [
+      "第 01 課",
+      "第 03 課",
+      "第 05 課"
+    ]
+  },
+  {
+    "id": "base-13",
+    "en": "Browser",
+    "zh": "瀏覽器",
+    "hint": "BROW-zer",
+    "ipa": "/ˈbraʊzɚ/",
+    "speech": "Browser",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課",
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ]
+  },
+  {
+    "id": "base-14",
+    "en": "Chrome",
+    "zh": "瀏覽器名稱",
+    "hint": "KROHM",
+    "ipa": "/kroʊm/",
+    "speech": "Chrome",
+    "cat": "工具名稱",
+    "courses": [
+      "第 01 課",
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ]
+  },
+  {
+    "id": "base-15",
+    "en": "Server",
+    "zh": "伺服器",
+    "hint": "SUR-ver",
+    "ipa": "/ˈsɝːvɚ/",
+    "speech": "Server",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課",
+      "第 05 課",
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ]
+  },
+  {
+    "id": "base-16",
+    "en": "Hosting",
+    "zh": "網站託管",
+    "hint": "HOH-sting",
+    "ipa": "/ˈhoʊstɪŋ/",
+    "speech": "Hosting",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "base-17",
+    "en": "Deployment",
+    "zh": "部署（名詞）",
+    "hint": "dih-PLOY-muhnt",
+    "ipa": "/dɪˈplɔɪmənt/",
+    "speech": "Deployment",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課",
+      "第 03 課"
+    ]
+  },
+  {
+    "id": "base-18",
+    "en": "Deploy",
+    "zh": "部署（動詞）",
+    "hint": "dih-PLOY",
+    "ipa": "/dɪˈplɔɪ/",
+    "speech": "Deploy",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "base-19",
+    "en": "Build",
+    "zh": "建立、建置",
+    "hint": "BILD",
+    "ipa": "/bɪld/",
+    "speech": "Build",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "base-20",
+    "en": "Preview",
+    "zh": "預覽",
+    "hint": "PREE-vyoo",
+    "ipa": "/ˈpriːvjuː/",
+    "speech": "Preview",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "base-21",
+    "en": "Edit",
+    "zh": "編輯、修改",
+    "hint": "ED-it",
+    "ipa": "/ˈɛdɪt/",
+    "speech": "Edit",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "base-22",
+    "en": "Share",
+    "zh": "分享",
+    "hint": "SHAIR",
+    "ipa": "/ʃɛr/",
+    "speech": "Share",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "base-23",
+    "en": "ChatGPT Plus",
+    "zh": "訂閱方案名稱",
+    "hint": "chat－G－P－T PLUS",
+    "ipa": "/tʃæt ˌdʒiː piː ˈtiː plʌs/",
+    "speech": "Chat G P T Plus",
+    "cat": "工具名稱",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "base-24",
+    "en": "ChatGPT Library",
+    "zh": "檔案庫",
+    "hint": "chat－G－P－T LY-brair-ee",
+    "ipa": "/tʃæt ˌdʒiː piː ˈtiː ˈlaɪbrɛri/",
+    "speech": "Chat G P T Library",
+    "cat": "工具名稱",
+    "courses": [
+      "第 01 課",
+      "第 03 課"
+    ]
+  },
+  {
+    "id": "base-25",
+    "en": "Prompt",
+    "zh": "提示詞",
+    "hint": "PRAHMPT",
+    "ipa": "/prɑːmpt/",
+    "speech": "Prompt",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課",
+      "第 02 課"
+    ]
+  },
+  {
+    "id": "base-26",
+    "en": "OpenAI",
+    "zh": "公司名稱",
+    "hint": "OH-puhn A－I",
+    "ipa": "/ˈoʊpən ˌeɪ ˈaɪ/",
+    "speech": "Open A I",
+    "cat": "工具名稱",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "base-27",
+    "en": "RCA",
+    "zh": "根本原因分析（縮寫）",
+    "hint": "R－C－A",
+    "ipa": "/ˌɑːr siː ˈeɪ/",
+    "speech": "R C A",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課",
+      "第 02 課"
+    ]
+  },
+  {
+    "id": "base-28",
+    "en": "ACLS",
+    "zh": "高級心臟救命術（縮寫）",
+    "hint": "A－C－L－S",
+    "ipa": "/ˌeɪ siː ɛl ˈɛs/",
+    "speech": "A C L S",
+    "cat": "網站概念",
+    "courses": [
+      "第 01 課"
+    ]
+  },
+  {
+    "id": "lesson-0",
+    "en": "Goal",
+    "zh": "目標",
+    "ipa": "/ɡoʊl/",
+    "hint": "GOHL",
+    "speech": "Goal",
+    "cat": "網站概念",
+    "courses": [
+      "第 02 課"
+    ]
+  },
+  {
+    "id": "lesson-1",
+    "en": "Users",
+    "zh": "使用者（複數）",
+    "ipa": "/ˈjuːzɚz/",
+    "hint": "YOO-zerz",
+    "speech": "Users",
+    "cat": "網站概念",
+    "courses": [
+      "第 02 課"
+    ]
+  },
+  {
+    "id": "lesson-2",
+    "en": "Content",
+    "zh": "內容",
+    "ipa": "/ˈkɑːntɛnt/",
+    "hint": "KAHN-tent；本課為名詞",
+    "speech": "Content",
+    "cat": "網站概念",
+    "courses": [
+      "第 02 課"
+    ]
+  },
+  {
+    "id": "lesson-3",
+    "en": "Features",
+    "zh": "功能、特色（複數）",
+    "ipa": "/ˈfiːtʃɚz/",
+    "hint": "FEE-cherz",
+    "speech": "Features",
+    "cat": "網站概念",
+    "courses": [
+      "第 02 課"
+    ]
+  },
+  {
+    "id": "lesson-4",
+    "en": "Design",
+    "zh": "設計",
+    "ipa": "/dɪˈzaɪn/",
+    "hint": "dih-ZYNE",
+    "speech": "Design",
+    "cat": "網站概念",
+    "courses": [
+      "第 02 課"
+    ]
+  },
+  {
+    "id": "lesson-5",
+    "en": "Constraints",
+    "zh": "限制條件（複數）",
+    "ipa": "/kənˈstreɪnts/",
+    "hint": "kuhn-STRAYNTS",
+    "speech": "Constraints",
+    "cat": "網站概念",
+    "courses": [
+      "第 02 課"
+    ]
+  },
+  {
+    "id": "lesson-6",
+    "en": "Word",
+    "zh": "文書處理軟體名稱",
+    "ipa": "/wɝːd/",
+    "hint": "WURD",
+    "speech": "Word",
+    "cat": "網站概念",
+    "courses": [
+      "第 02 課",
+      "第 03 課",
+      "第 04 課"
+    ]
+  },
+  {
+    "id": "lesson-7",
+    "en": "HTML",
+    "zh": "網頁結構標記語言",
+    "ipa": "/ˌeɪtʃ tiː ɛm ˈɛl/",
+    "hint": "H－T－M－L",
+    "speech": "H T M L",
+    "cat": "網站概念",
+    "courses": [
+      "第 03 課",
+      "第 05 課"
+    ]
+  },
+  {
+    "id": "lesson-8",
+    "en": "CSS",
+    "zh": "設定網頁外觀的樣式語言",
+    "ipa": "/ˌsiː ɛs ˈɛs/",
+    "hint": "C－S－S",
+    "speech": "C S S",
+    "cat": "網站概念",
+    "courses": [
+      "第 03 課",
+      "第 05 課"
+    ]
+  },
+  {
+    "id": "lesson-9",
+    "en": "JavaScript",
+    "zh": "用來實作網頁互動的程式語言",
+    "ipa": "/ˈdʒɑːvəˌskrɪpt/",
+    "hint": "JAH-vuh-script",
+    "speech": "JavaScript",
+    "cat": "網站概念",
+    "courses": [
+      "第 03 課",
+      "第 05 課"
+    ]
+  },
+  {
+    "id": "lesson-10",
+    "en": "Git",
+    "zh": "版本控制工具",
+    "ipa": "/ɡɪt/",
+    "hint": "GIT",
+    "speech": "Git",
+    "cat": "網站概念",
+    "courses": [
+      "第 03 課"
+    ]
+  },
+  {
+    "id": "lesson-11",
+    "en": "Development",
+    "zh": "開發",
+    "ipa": "/dɪˈvɛləpmənt/",
+    "hint": "dih-VEL-uhp-muhnt",
+    "speech": "Development",
+    "cat": "網站概念",
+    "courses": [
+      "第 03 課"
+    ]
+  },
+  {
+    "id": "lesson-12",
+    "en": "Windows",
+    "zh": "作業系統名稱",
+    "ipa": "/ˈwɪndoʊz/",
+    "hint": "WIN-dohz",
+    "speech": "Windows",
+    "cat": "網站概念",
+    "courses": [
+      "第 04 課",
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ]
+  },
+  {
+    "id": "lesson-13",
+    "en": "Supabase",
+    "zh": "後端服務平台名稱",
+    "ipa": "/ˈsuːpəbeɪs/",
+    "hint": "SOO-puh-bays；品牌讀法參考",
+    "speech": "Supa base",
+    "cat": "網站概念",
+    "courses": [
+      "第 04 課",
+      "第 05 課",
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ]
+  },
+  {
+    "id": "lesson-14",
+    "en": "Local Storage",
+    "zh": "瀏覽器本機儲存",
+    "ipa": "/ˈloʊkəl ˈstɔːrɪdʒ/",
+    "hint": "LOH-kuhl STOR-ij",
+    "speech": "Local Storage",
+    "cat": "網站概念",
+    "courses": [
+      "第 04 課"
+    ]
+  },
+  {
+    "id": "lesson-15",
+    "en": "Local Files",
+    "zh": "本機檔案",
+    "ipa": "/ˈloʊkəl faɪlz/",
+    "hint": "LOH-kuhl FYLZ",
+    "speech": "Local Files",
+    "cat": "網站概念",
+    "courses": [
+      "第 04 課"
+    ]
+  },
+  {
+    "id": "lesson-16",
+    "en": "Excel",
+    "zh": "試算表軟體名稱",
+    "ipa": "/ɪkˈsɛl/",
+    "hint": "ik-SEL",
+    "speech": "Excel",
+    "cat": "網站概念",
+    "courses": [
+      "第 04 課"
+    ]
+  },
+  {
+    "id": "lesson-17",
+    "en": "Cloud Storage",
+    "zh": "雲端儲存",
+    "ipa": "/klaʊd ˈstɔːrɪdʒ/",
+    "hint": "KLOWD STOR-ij",
+    "speech": "Cloud Storage",
+    "cat": "網站概念",
+    "courses": [
+      "第 04 課",
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ]
+  },
+  {
+    "id": "lesson-18",
+    "en": "Google Drive",
+    "zh": "Google 雲端硬碟",
+    "ipa": "/ˈɡuːɡəl draɪv/",
+    "hint": "GOO-guhl DRYV",
+    "speech": "Google Drive",
+    "cat": "網站概念",
+    "courses": [
+      "第 04 課",
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ]
+  },
+  {
+    "id": "lesson-19",
+    "en": "OneDrive",
+    "zh": "Microsoft 雲端儲存服務",
+    "ipa": "/ˈwʌnˌdraɪv/",
+    "hint": "WUN-dryv",
+    "speech": "One Drive",
+    "cat": "網站概念",
+    "courses": [
+      "第 04 課"
+    ]
+  },
+  {
+    "id": "lesson-20",
+    "en": "Database",
+    "zh": "資料庫",
+    "ipa": "/ˈdætəbeɪs/",
+    "hint": "DAT-uh-bays；亦有 DAY-tuh-bays 讀法",
+    "speech": "Database",
+    "cat": "網站概念",
+    "courses": [
+      "第 04 課",
+      "第 05 課",
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ]
+  },
+  {
+    "id": "lesson-21",
+    "en": "Synchronization",
+    "zh": "同步",
+    "ipa": "/ˌsɪŋkrənəˈzeɪʃən/",
+    "hint": "sing-kruh-nuh-ZAY-shuhn",
+    "speech": "Synchronization",
+    "cat": "網站概念",
+    "courses": [
+      "第 04 課"
+    ]
+  },
+  {
+    "id": "lesson-22",
+    "en": "Frontend",
+    "zh": "前端（第四課預告）",
+    "ipa": "/ˈfrʌntˌɛnd/",
+    "hint": "FRUNT-end",
+    "speech": "Front end",
+    "cat": "網站概念",
+    "courses": [
+      "第 04 課",
+      "第 05 課"
+    ]
+  },
+  {
+    "id": "lesson-23",
+    "en": "Backend",
+    "zh": "後端（第四課預告）",
+    "ipa": "/ˈbækˌɛnd/",
+    "hint": "BACK-end",
+    "speech": "Back end",
+    "cat": "網站概念",
+    "courses": [
+      "第 04 課",
+      "第 05 課",
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ]
+  },
+  {
+    "id": "lesson-24",
+    "en": "API",
+    "zh": "應用程式介面（第四課預告）",
+    "ipa": "/ˌeɪ piː ˈaɪ/",
+    "hint": "A－P－I",
+    "speech": "A P I",
+    "cat": "網站概念",
+    "courses": [
+      "第 04 課",
+      "第 05 課",
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ]
+  },
+  {
+    "en": "Python",
+    "zh": "程式語言名稱",
+    "ipa": "/ˈpaɪθɑːn/",
+    "hint": "PY-thon；th 是舌尖輕觸上齒的無聲音",
+    "speech": "Python",
+    "courses": [
+      "第 05 課"
+    ],
+    "cat": "網站概念",
+    "id": "word-34127840-fa42-4f27-8384-d51a103adefe",
+    "custom": true
+  },
+  {
+    "en": "Node.js",
+    "zh": "JavaScript 執行環境",
+    "ipa": "/noʊd ˌdʒeɪ ˈɛs/",
+    "hint": "NODE－J－S",
+    "speech": "Node J S",
+    "courses": [
+      "第 05 課"
+    ],
+    "cat": "網站概念",
+    "id": "word-cb82973a-bc67-46e0-ad88-07e223bf4d80",
+    "custom": true
+  },
+  {
+    "en": "Java",
+    "zh": "程式語言名稱",
+    "ipa": "/ˈdʒɑːvə/",
+    "hint": "JAH-vuh",
+    "speech": "Java",
+    "courses": [
+      "第 05 課"
+    ],
+    "cat": "網站概念",
+    "id": "word-026d8b6a-1ad0-4118-9075-5734242fb8bb",
+    "custom": true
+  },
+  {
+    "en": "C#",
+    "zh": "程式語言名稱；讀作 C sharp",
+    "ipa": "/ˌsiː ˈʃɑːrp/",
+    "hint": "C SHARP；# 在此讀 sharp",
+    "speech": "C sharp",
+    "courses": [
+      "第 05 課"
+    ],
+    "cat": "網站概念",
+    "id": "word-26f0b458-ef45-4e83-bcfe-233b0c7f727d",
+    "custom": true
+  },
+  {
+    "en": "Application Programming Interface",
+    "zh": "應用程式介面；API 的全名",
+    "ipa": "/ˌæplɪˈkeɪʃən ˈproʊɡræmɪŋ ˈɪntɚfeɪs/",
+    "hint": "ap-lih-KAY-shuhn PROH-gram-ing IN-ter-fays",
+    "speech": "Application Programming Interface",
+    "courses": [
+      "第 05 課"
+    ],
+    "cat": "網站概念",
+    "id": "word-93122885-7567-4601-8ff2-f42331a65b65",
+    "custom": true
+  },
+  {
+    "en": "HTTP",
+    "zh": "超文字傳輸協定",
+    "ipa": "/ˌeɪtʃ tiː tiː ˈpiː/",
+    "hint": "H－T－T－P",
+    "speech": "H T T P",
+    "courses": [
+      "第 05 課"
+    ],
+    "cat": "網站概念",
+    "id": "word-249af7e0-61fd-4d99-bc66-81f53f4d2a4d",
+    "custom": true
+  },
+  {
+    "en": "JSON",
+    "zh": "以文字表達結構化資料的格式",
+    "ipa": "/ˈdʒeɪsən/",
+    "hint": "JAY-suhn，常讀得像人名 Jason",
+    "speech": "Jason",
+    "courses": [
+      "第 05 課"
+    ],
+    "cat": "網站概念",
+    "id": "word-dcef2d42-b5dd-4298-a4a6-5697c10a287d",
+    "custom": true
+  },
+  {
+    "en": "PostgreSQL",
+    "zh": "關聯式資料庫系統名稱",
+    "ipa": "/ˈpoʊstɡrɛs ˌkjuː ˈɛl/",
+    "hint": "POST-gres－Q－L",
+    "speech": "Post gres Q L",
+    "courses": [
+      "第 05 課",
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "cat": "網站概念",
+    "id": "word-2b41a1a5-cf8e-4663-abee-2e5fdf5cd545",
+    "custom": true
+  },
+  {
+    "en": "Request",
+    "zh": "請求（本課下堂預告出現）",
+    "ipa": "/rɪˈkwɛst/",
+    "hint": "rih-KWEST",
+    "speech": "Request",
+    "courses": [
+      "第 05 課"
+    ],
+    "cat": "網站概念",
+    "id": "word-e4047100-4271-45c9-b3f8-8adfcb47741c",
+    "custom": true
+  },
+  {
+    "en": "Response",
+    "zh": "回應（本課下堂預告出現）",
+    "ipa": "/rɪˈspɑːns/",
+    "hint": "rih-SPAHNS",
+    "speech": "Response",
+    "courses": [
+      "第 05 課"
+    ],
+    "cat": "網站概念",
+    "id": "word-dd7660ba-5284-440a-b466-2acab3dc0f24",
+    "custom": true
+  },
+  {
+    "en": "Google Sheets",
+    "zh": "Google 試算表；文中 Sheets 亦指此工具",
+    "ipa": "/ˈɡuːɡəl ʃiːts/",
+    "hint": "GOO-guhl SHEETS",
+    "speech": "Google Sheets",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-0600cc65-cb57-4072-ac12-9f50d3babd63",
+    "custom": true
+  },
+  {
+    "en": "Protocol",
+    "zh": "通訊協定",
+    "ipa": "/ˈproʊtəkɔːl/",
+    "hint": "PROH-tuh-kawl",
+    "speech": "Protocol",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-da31088b-2d4d-44f7-b0c1-12fa7df16dd6",
+    "custom": true
+  },
+  {
+    "en": "HTTPS",
+    "zh": "安全超文字傳輸協定",
+    "ipa": "/ˌeɪtʃ tiː tiː piː ˈɛs/",
+    "hint": "H・T・T・P・S",
+    "speech": "H T T P S",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-661147c9-9be1-411f-a0ad-d5b5377544c7",
+    "custom": true
+  },
+  {
+    "en": "PDF",
+    "zh": "可攜式文件格式",
+    "ipa": "/ˌpiː diː ˈɛf/",
+    "hint": "P・D・F",
+    "speech": "P D F",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-7deefef3-eb34-450a-b744-a5ceace8674e",
+    "custom": true
+  },
+  {
+    "en": "Table",
+    "zh": "資料表",
+    "ipa": "/ˈteɪbəl/",
+    "hint": "TAY-buhl",
+    "speech": "Table",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-dd5aee34-3494-47e9-b5bf-b38c5b147835",
+    "custom": true
+  },
+  {
+    "en": "Projects",
+    "zh": "專案（複數）；講義中的資料表名稱",
+    "ipa": "/ˈprɑːdʒɛkts/",
+    "hint": "PRAH-jekts；此處為名詞",
+    "speech": "Projects",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-675b2a8e-31e1-4801-9810-48e299a7fd88",
+    "custom": true
+  },
+  {
+    "en": "id",
+    "zh": "編號／識別碼；範例欄位名稱",
+    "ipa": "/ˌaɪ ˈdiː/",
+    "hint": "I・D",
+    "speech": "I D",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-85a1bcf0-be15-453b-9641-107891d315d4",
+    "custom": true
+  },
+  {
+    "en": "name",
+    "zh": "名稱；範例中指專案名稱",
+    "ipa": "/neɪm/",
+    "hint": "NAYM",
+    "speech": "name",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-57f6f92b-8335-45f9-ab38-20670e802798",
+    "custom": true
+  },
+  {
+    "en": "status",
+    "zh": "狀態；範例中指專案進度",
+    "ipa": "/ˈsteɪtəs/",
+    "hint": "STAY-tuhs",
+    "speech": "status",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-0870fca4-1ed1-4fbb-9dcd-c3cf411d24c8",
+    "custom": true
+  },
+  {
+    "en": "Record",
+    "zh": "紀錄（名詞）",
+    "ipa": "/ˈrɛkɚd/",
+    "hint": "REK-erd；名詞重音在前",
+    "speech": "Record",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-9c061700-40d1-48b9-b799-cfde42445e8f",
+    "custom": true
+  },
+  {
+    "en": "Row",
+    "zh": "資料列",
+    "ipa": "/roʊ/",
+    "hint": "ROH",
+    "speech": "Row",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-7c029604-d5d8-496e-85ea-98992ba41617",
+    "custom": true
+  },
+  {
+    "en": "Field",
+    "zh": "欄位",
+    "ipa": "/fiːld/",
+    "hint": "FEELD",
+    "speech": "Field",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-593fd3cf-28b3-4ced-a9d6-5c194a4097c5",
+    "custom": true
+  },
+  {
+    "en": "Column",
+    "zh": "欄／欄位",
+    "ipa": "/ˈkɑːləm/",
+    "hint": "KAH-luhm；字尾 n 不發音",
+    "speech": "Column",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-24147997-9bd3-4fd0-81f6-ebef56955878",
+    "custom": true
+  },
+  {
+    "en": "One-to-Many",
+    "zh": "一對多關聯",
+    "ipa": "/ˌwʌn tə ˈmɛni/",
+    "hint": "WUN-tuh-MEN-ee",
+    "speech": "One to many",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-ad428a0e-e71d-46f1-8aeb-9a93313fcf6e",
+    "custom": true
+  },
+  {
+    "en": "Tasks",
+    "zh": "任務（複數）",
+    "ipa": "/tæsks/",
+    "hint": "TASKS；留意字尾 sks",
+    "speech": "Tasks",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-9cd0271b-7c81-46c4-a3b7-c77422a02c78",
+    "custom": true
+  },
+  {
+    "en": "Authentication",
+    "zh": "身分驗證",
+    "ipa": "/ɔːˌθɛntɪˈkeɪʃən/",
+    "hint": "aw-then-tih-KAY-shuhn",
+    "speech": "Authentication",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-447e2559-3a4e-4dc7-bc5e-ccc9a045f6a3",
+    "custom": true
+  },
+  {
+    "en": "Storage",
+    "zh": "儲存；此處指檔案儲存",
+    "ipa": "/ˈstɔːrɪdʒ/",
+    "hint": "STOR-ij",
+    "speech": "Storage",
+    "cat": "網站概念",
+    "courses": [
+      "2-1｜伺服器、雲端硬碟與資料庫"
+    ],
+    "id": "word-c96bae0f-2985-41e8-8807-787c98784e6e",
+    "custom": true
+  }
+]
